@@ -1,0 +1,14 @@
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\bin\Debug\netcoreapp3.1\PerfectMatch.exe
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\bin\Debug\netcoreapp3.1\PerfectMatch.deps.json
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\bin\Debug\netcoreapp3.1\PerfectMatch.runtimeconfig.json
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\bin\Debug\netcoreapp3.1\PerfectMatch.runtimeconfig.dev.json
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\bin\Debug\netcoreapp3.1\PerfectMatch.dll
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\bin\Debug\netcoreapp3.1\PerfectMatch.pdb
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.csproj.AssemblyReference.cache
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.AssemblyInfoInputs.cache
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.AssemblyInfo.cs
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.csproj.CoreCompileInputs.cache
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.dll
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.pdb
+C:\Users\faris\Downloads\PerfectMatch\PerfectMatch\obj\Debug\netcoreapp3.1\PerfectMatch.genruntimeconfig.cache
